@@ -1,7 +1,7 @@
-👋 Olá! Meu nome é Liam Arguedas.
+👋 Hey! My name is Liam Arguedas.
 
-👀 Sou Cientista de Dados com interesse em Estatística, Machine Learning, Séries Temporais, Finanças, Forecasting, Automação, Otimização de processos e Programação Funcional.
+👀 I am a Data Scientist with an interest in Statistics, Machine Learning, Time Series, Finance, Forecasting, Automation, Process Optimization and Functional Programming. 
 
-🌱 Atualmente, estou desenvolvendo aplicações de Processamento de Linguagem Natural, Forecasting de Séries Temporais e Business Analytics. 
+🌱 I am currently developing NLP, Time Series Forecasting and BI/BA applications. 
 
-📫 Você pode entrar em contato comigo em: https://www.linkedin.com/in/liamarguedas/
+📫 You can contact me at: https://www.linkedin.com/in/liamarguedas/
