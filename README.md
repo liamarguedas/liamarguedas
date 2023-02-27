@@ -1,7 +1,7 @@
 👋 Hey! My name is Liam Arguedas.
 
-👀 I am a Data Scientist with an interest in Statistics, Machine Learning, Time Series, Finance, Forecasting, Automation, Process Optimization and Functional Programming. 
+👀 I am a data scientist with over 3 years of experience and passion for exploring and extracting insights from complex data sets. I am skilled in utilizing programming languages such as Python, R, and SQL to manipulate data and develop predictive models.
 
-🌱 I am currently developing NLP, Time Series Forecasting and BI/BA applications. 
+🌱 As a data scientist, I have experience working and developing projects such as NLP/NU, BI/BA, Time Series Forecasting, Recommended Systems and other supervised / unsupervised learning problems / applications, where I have helped organizations make data-driven decisions and improve their bottom line. I am particularly interested in statistics, machine learning, time series, finance, automation and functional programming and enjoy staying up-to-date with the latest developments in the field.
 
 📫 You can contact me at: https://www.linkedin.com/in/liamarguedas/
