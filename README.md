@@ -1,4 +1,4 @@
-👋 Hey! My name is Liam Arguedas.
+👋 Hey! My name is Liam.
 
 👀 I am a data scientist with over 3 years of experience and passion for exploring and extracting insights from complex data sets. I am skilled in utilizing programming languages such as Python, R, and SQL to manipulate data and develop predictive models.
 
