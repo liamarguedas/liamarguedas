@@ -1,7 +1,11 @@
 👋 Hey! My name is Liam.
 
-👀 I am a data scientist with over 4 years of experience and passion for exploring and extracting insights from complex data sets. I am skilled in utilizing programming languages such as Python, R, and SQL to manipulate data and develop predictive models.
+👀 I am an experienced data scientist with a passion for delving into intricate data sets to uncover valuable insights. With over 4 years of industry experience, I have honed my skills in Python, R, and SQL to effectively manipulate data and construct predictive models.
 
-🌱 As a data scientist, I have experience working and developing projects such as NLP/NU, BI/BA, Time Series Forecasting, Recommended Systems and other supervised / unsupervised learning problems / applications, where I have helped organizations make data-driven decisions and improve their bottom line. I am particularly interested in statistics, machine learning, time series, finance, automation and functional programming and enjoy staying up-to-date with the latest developments in the field.
+🌱 Throughout my career, I have tackled various projects in the realms of Natural Language Processing/Natural Understanding (NLP/NU), Business Intelligence/Business Analytics (BI/BA), Time Series Forecasting, Recommender Systems, and other supervised/unsupervised learning problem domains. By leveraging these solutions and applications, I have assisted organizations in making data-driven decisions and enhancing their overall profitability. My specific interests lie in statistics, machine learning, time series analysis, finance, automation, and functional programming. I continually stay abreast of the latest advancements in these areas.
+
+Beyond my technical expertise, I possess strong communication and collaboration skills. I excel at effectively conveying insights and recommendations to stakeholders with diverse levels of technical knowledge. I constantly seek out fresh opportunities to apply my skills and contribute to innovative data-driven projects.
+
+If you would like to connect or explore potential collaborations, please feel free to reach out to me. I am eager to discuss further.
 
 📫 You can contact me at: https://www.linkedin.com/in/liamarguedas/
