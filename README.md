@@ -15,6 +15,8 @@ Throughout my career, I have tackled various projects in the realms of NLP/NU, B
   
 <br>📚 I am a BSc of Computer Science Student, with an AS in Machine Learning and AS in Applied Mathematics.</br>
 
+<br>🚀 I am the creator and main contributor to an open-source ML Python package: <a href="https://github.com/extra-learning/extralearning">extralearning</a> 
+
 <br>🪧 I am proficient in the languages of Spanish, English, and Portuguese.</br></p>
 
 ###
