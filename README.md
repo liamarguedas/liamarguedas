@@ -13,7 +13,7 @@
 <p align="left">🧑‍💻  I'm passionate about delving into intricate datasets to uncover valuable insights, manipulate data and construct predictive models.
 Throughout my career, I have tackled various projects in the realms of NLP/NU, BI/BA, Time Series Forecasting, Recommender Systems, and other machine learning problem domains. In the past years have assisted organizations in making data-driven decisions and enhancing their overall profitability.
   
-<br>📚 I am a BSc of Computer Science Student, with an AS in Machine Learning and AS in Applied Mathematics.</br>
+<br>📚 I am a BSc of Computer Science Student, with an ASc in Machine Learning and ASc in Applied Mathematics.</br>
 
 <br>🚀 I am the creator and main contributor to an open-source ML Python package: <a href="https://github.com/extra-learning/extralearning">extralearning</a> 
 
