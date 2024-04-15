@@ -23,7 +23,7 @@ Throughout my career, I have tackled various projects in the realms of NLP/NU, B
 
 ###
 
-[![Metrics](https://raw.githubusercontent.com/liamarguedas/liamarguedas/main/github-metrics.svg)](https://github.com/liamarguedas)
+[![MetricsV2](https://raw.githubusercontent.com/liamarguedas/liamarguedas/main/github-metrics.svg)](https://github.com/liamarguedas)
 
 ###
 <h2 align="left">Contact me</h2>
